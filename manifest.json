@@ -1,22 +1,22 @@
 {
   "name": "Campus Connect",
   "short_name": "Campus Connect",
-  "start_url": "./index.html",
-   "display": "standalone",
+  "id": "/CampusConnect/",
+  "start_url": "/CampusConnect/",
+  "scope": "/CampusConnect/",
+  "display": "standalone",
   "background_color": "#f4f8fc",
   "theme_color": "#0f3d6b",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/CampusConnect/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon-512.png",
+      "src": "/CampusConnect/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ]
 }
-
-
